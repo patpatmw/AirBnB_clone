@@ -15,21 +15,23 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1671147564,,"wq"
+|2,0,1675472458,,"wq"
+:q
+|2,0,1675471299,,"q"
+:WQ
+|2,0,1675471227,,"WQ"
+:!q
+|2,0,1674774500,,"!q"
+:set number
+|2,0,1674337117,,"set number"
+:set numbers
+|2,0,1674337000,,"set numbers"
+:w
+|2,0,1672709510,,"w"
 :Wq
 |2,0,1671147529,,"Wq"
-:q
-|2,0,1671147080,,"q"
-:WQ
-|2,0,1670295586,,"WQ"
-:set number
-|2,0,1669777016,,"set number"
 :t number
 |2,0,1669776396,,"t number"
-:set numbers
-|2,0,1669771137,,"set numbers"
-:!q
-|2,0,1669686896,,"!q"
 :q!
 |2,0,1666028287,,"q!"
 
@@ -45,234 +47,901 @@
 
 # Registers:
 ""-	CHAR	0
-	n
-|3,1,36,0,1,0,1666010430,"n"
+	#
+|3,1,36,0,1,0,1674337007,"#"
 
 # File marks:
-'0  1  0  /alx-low_level_programming/0x18-dynamic_libraries/randnum.so
-|4,48,1,0,1671147564,"/alx-low_level_programming/0x18-dynamic_libraries/randnum.so"
-'1  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,49,1,0,1671147553,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
-'2  1  0  /alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
-|4,50,1,0,1671147535,"/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
-'3  1  0  /alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh
-|4,51,1,0,1671147505,"/alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh"
-'4  1  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-|4,52,1,0,1671147469,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
-'5  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,53,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
-'6  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,54,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
-'7  1  10  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,55,1,10,1671147312,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
-'8  1  10  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,56,1,10,1671147312,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
-'9  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,57,1,0,1671147264,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
+'0  5  0  /alx-system_engineering-devops/0x08-networking_basics_2/100-port_listening_on_localhost
+|4,48,5,0,1675472458,"/alx-system_engineering-devops/0x08-networking_basics_2/100-port_listening_on_localhost"
+'1  3  0  /alx-system_engineering-devops/0x08-networking_basics_2/1-show_attached_IPs
+|4,49,3,0,1675472402,"/alx-system_engineering-devops/0x08-networking_basics_2/1-show_attached_IPs"
+'2  8  0  /alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP
+|4,50,8,0,1675472354,"/alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP"
+'3  2  0  /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+|4,51,2,0,1675472011,"/alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address"
+'4  2  107  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,52,2,107,1675471971,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+'5  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,53,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+'6  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,54,1,0,1675471571,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+'7  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,55,1,0,1675471571,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+'8  1  0  /alx-system_engineering-devops/0x07-networking_basics/1-types_of_network
+|4,56,1,0,1675471553,"/alx-system_engineering-devops/0x07-networking_basics/1-types_of_network"
+'9  1  0  /alx-system_engineering-devops/0x07-networking_basics/3-UDP_and_TCP
+|4,57,1,0,1675471454,"/alx-system_engineering-devops/0x07-networking_basics/3-UDP_and_TCP"
 
 # Jumplist (newest first):
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/randnum.so
-|4,39,1,0,1671147564,"/alx-low_level_programming/0x18-dynamic_libraries/randnum.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147553,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147553,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
-|4,39,1,0,1671147535,"/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
-|4,39,1,0,1671147535,"/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
-|4,39,1,0,1671147535,"/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
-|4,39,1,0,1671147535,"/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh
-|4,39,1,0,1671147505,"/alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh
-|4,39,1,0,1671147505,"/alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh
-|4,39,1,0,1671147505,"/alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh
-|4,39,1,0,1671147505,"/alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh
-|4,39,1,0,1671147505,"/alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh
-|4,39,1,0,1671147505,"/alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh
-|4,39,1,0,1671147505,"/alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh
-|4,39,1,0,1671147505,"/alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-|4,39,1,0,1671147469,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-|4,39,1,0,1671147469,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-|4,39,1,0,1671147469,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-|4,39,1,0,1671147469,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-|4,39,1,0,1671147469,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-|4,39,1,0,1671147469,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-|4,39,1,0,1671147469,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-|4,39,1,0,1671147469,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-|4,39,1,0,1671147469,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-|4,39,1,0,1671147469,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-|4,39,1,0,1671147469,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-|4,39,1,0,1671147469,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-|4,39,1,0,1671147469,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-|4,39,1,0,1671147469,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-|4,39,1,0,1671147469,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-|4,39,1,0,1671147469,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  15  0  /alx-low_level_programming/0x18-dynamic_libraries/100-operations.h
-|4,39,15,0,1671147458,"/alx-low_level_programming/0x18-dynamic_libraries/100-operations.h"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  0  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,0,1671147407,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  10  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,10,1671147312,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  10  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,10,1671147312,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  10  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,10,1671147312,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  10  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,10,1671147312,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
--'  1  10  /alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-|4,39,1,10,1671147312,"/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so"
+-'  5  0  /alx-system_engineering-devops/0x08-networking_basics_2/100-port_listening_on_localhost
+|4,39,5,0,1675472458,"/alx-system_engineering-devops/0x08-networking_basics_2/100-port_listening_on_localhost"
+-'  1  0  /alx-system_engineering-devops/0x08-networking_basics_2/100-port_listening_on_localhost
+|4,39,1,0,1675472447,"/alx-system_engineering-devops/0x08-networking_basics_2/100-port_listening_on_localhost"
+-'  3  0  /alx-system_engineering-devops/0x08-networking_basics_2/1-show_attached_IPs
+|4,39,3,0,1675472402,"/alx-system_engineering-devops/0x08-networking_basics_2/1-show_attached_IPs"
+-'  3  0  /alx-system_engineering-devops/0x08-networking_basics_2/1-show_attached_IPs
+|4,39,3,0,1675472402,"/alx-system_engineering-devops/0x08-networking_basics_2/1-show_attached_IPs"
+-'  1  0  /alx-system_engineering-devops/0x08-networking_basics_2/1-show_attached_IPs
+|4,39,1,0,1675472395,"/alx-system_engineering-devops/0x08-networking_basics_2/1-show_attached_IPs"
+-'  1  0  /alx-system_engineering-devops/0x08-networking_basics_2/1-show_attached_IPs
+|4,39,1,0,1675472395,"/alx-system_engineering-devops/0x08-networking_basics_2/1-show_attached_IPs"
+-'  8  0  /alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP
+|4,39,8,0,1675472354,"/alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP"
+-'  8  0  /alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP
+|4,39,8,0,1675472354,"/alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP"
+-'  8  0  /alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP
+|4,39,8,0,1675472354,"/alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP"
+-'  8  0  /alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP
+|4,39,8,0,1675472354,"/alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP"
+-'  1  0  /alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP
+|4,39,1,0,1675472344,"/alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP"
+-'  1  0  /alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP
+|4,39,1,0,1675472344,"/alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP"
+-'  1  0  /alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP
+|4,39,1,0,1675472344,"/alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP"
+-'  1  0  /alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP
+|4,39,1,0,1675472344,"/alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP"
+-'  2  0  /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+|4,39,2,0,1675472011,"/alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address"
+-'  2  0  /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+|4,39,2,0,1675472011,"/alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address"
+-'  2  0  /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+|4,39,2,0,1675472011,"/alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address"
+-'  2  0  /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+|4,39,2,0,1675472011,"/alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address"
+-'  2  0  /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+|4,39,2,0,1675472011,"/alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address"
+-'  2  0  /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+|4,39,2,0,1675472011,"/alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address"
+-'  2  0  /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+|4,39,2,0,1675472011,"/alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address"
+-'  2  0  /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+|4,39,2,0,1675472011,"/alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address"
+-'  1  3  /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+|4,39,1,3,1675471977,"/alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address"
+-'  1  3  /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+|4,39,1,3,1675471977,"/alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address"
+-'  1  3  /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+|4,39,1,3,1675471977,"/alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address"
+-'  1  3  /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+|4,39,1,3,1675471977,"/alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address"
+-'  1  3  /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+|4,39,1,3,1675471977,"/alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address"
+-'  1  3  /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+|4,39,1,3,1675471977,"/alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address"
+-'  1  3  /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+|4,39,1,3,1675471977,"/alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address"
+-'  1  3  /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+|4,39,1,3,1675471977,"/alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address"
+-'  2  107  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,2,107,1675471971,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  2  107  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,2,107,1675471971,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  2  107  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,2,107,1675471971,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  2  107  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,2,107,1675471971,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  2  107  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,2,107,1675471971,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  2  107  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,2,107,1675471971,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  2  107  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,2,107,1675471971,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  2  107  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,2,107,1675471971,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  2  107  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,2,107,1675471971,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  2  107  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,2,107,1675471971,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  2  107  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,2,107,1675471971,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  2  107  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,2,107,1675471971,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  2  107  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,2,107,1675471971,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  2  107  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,2,107,1675471971,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  2  107  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,2,107,1675471971,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  2  107  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,2,107,1675471971,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,1,0,1675471929,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,1,0,1675471929,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,1,0,1675471929,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,1,0,1675471929,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,1,0,1675471929,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,1,0,1675471929,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,1,0,1675471929,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,1,0,1675471929,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,1,0,1675471929,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,1,0,1675471929,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,1,0,1675471929,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,1,0,1675471929,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,1,0,1675471929,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,1,0,1675471929,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,1,0,1675471929,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+|4,39,1,0,1675471929,"/alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  10  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,10,0,1675471785,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,1,0,1675471770,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,1,0,1675471770,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,1,0,1675471770,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,1,0,1675471770,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,1,0,1675471770,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
+-'  1  0  /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+|4,39,1,0,1675471770,"/alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network"
 
 # History of marks within files (newest to oldest):
+
+> /alx-system_engineering-devops/0x08-networking_basics_2/100-port_listening_on_localhost
+	*	1675472457	0
+	"	5	0
+	^	5	0
+	.	6	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+
+> /alx-system_engineering-devops/0x08-networking_basics_2/1-show_attached_IPs
+	*	1675472401	0
+	"	3	0
+	^	3	0
+	.	4	0
+	+	3	0
+	+	4	0
+
+> /alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP
+	*	1675472354	0
+	"	8	0
+	^	8	0
+	.	9	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+
+> /alx-system_engineering-devops/0x07-networking_basics/2-MAC_and_IP_address
+	*	1675472010	0
+	"	2	0
+	^	2	1
+	.	2	0
+	+	1	19
+	+	1	3
+	+	2	0
+
+> /alx-system_engineering-devops/0x07-networking_basics/4-TCP_and_UDP_ports
+	*	1675471970	0
+	"	2	107
+	^	2	108
+	.	3	0
+	+	3	0
+	+	2	0
+	+	3	0
+
+> /alx-system_engineering-devops/0x07-networking_basics/5-is_the_host_on_the_network
+	*	1675471785	0
+	"	10	0
+	^	10	0
+	.	11	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+
+> /alx-system_engineering-devops/0x07-networking_basics/1-types_of_network
+	*	1675471551	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	19
+	+	1	16
+	+	1	0
+
+> /alx-system_engineering-devops/0x07-networking_basics/3-UDP_and_TCP
+	*	1675471451	0
+	"	1	0
+	^	1	0
+	.	2	0
+	+	1	0
+	+	2	0
+
+> /alx-system_engineering-devops/0x07-networking_basics/3
+	*	1675471288	0
+	"	1	0
+
+> /alx-system_engineering-devops/0x06-regular_expressions/100-textme.rb
+	*	1675218793	0
+	"	2	73
+	^	2	74
+	.	3	0
+	+	2	74
+	+	3	0
+
+> /alx-system_engineering-devops/0x06-regular_expressions/5-beginning_and_end.rb
+	*	1675218640	0
+	"	2	30
+	^	2	31
+	.	3	0
+	+	2	31
+	+	3	0
+
+> /alx-system_engineering-devops/0x06-regular_expressions/7-OMG_WHY_ARE_YOU_SHOUTING.rb
+	*	1675218413	0
+	"	2	0
+	^	2	0
+	.	3	0
+	+	3	0
+
+> /alx-system_engineering-devops/0x06-regular_expressions/6-phone_number.rb
+	*	1675218366	0
+	"	2	0
+	^	2	0
+	.	3	0
+	+	2	0
+	+	3	0
+
+> /alx-system_engineering-devops/0x06-regular_expressions/4-repetition_token_3.rb
+	*	1675218053	0
+	"	2	0
+	^	2	0
+	.	3	0
+	+	3	0
+
+> /alx-system_engineering-devops/0x06-regular_expressions/3-repetition_token_2.rb
+	*	1675217886	0
+	"	2	0
+	^	2	0
+	.	3	0
+	+	3	0
+
+> /alx-system_engineering-devops/0x06-regular_expressions/2-repetition_token_1.rb
+	*	1675217807	0
+	"	2	0
+	^	2	0
+	.	3	0
+	+	3	0
+
+> /alx-system_engineering-devops/0x06-regular_expressions/1-repetition_token_0.rb
+	*	1675217727	0
+	"	2	0
+	^	2	0
+	.	3	0
+	+	3	0
+
+> /alx-system_engineering-devops/0x06-regular_expressions/0-simply_match_school.rb
+	*	1675217448	0
+	"	2	0
+	^	2	0
+	.	3	0
+	+	2	0
+	+	3	0
+
+> /alx-system_engineering-devops/0x05-processes_and_signals/100-process_and_pid_file
+	*	1675047579	0
+	"	17	0
+	^	17	0
+	.	18	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+
+> /alx-system_engineering-devops/0x05-processes_and_signals/102-zombie.c
+	*	1675047178	0
+	"	37	0
+	^	37	0
+	.	38	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	5	1
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	17	1
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	38	0
+
+> /alx-system_engineering-devops/0x05-processes_and_signals/6-stop_me_if_you_can
+	*	1675045289	0
+	"	3	34
+	^	3	35
+	.	3	34
+	+	3	0
+	+	4	0
+	+	3	34
+
+> /alx-system_engineering-devops/0x05-processes_and_signals/3-show_your_bash_pid_made_easy
+	*	1675045261	0
+	"	3	0
+	^	3	0
+	.	4	0
+	+	3	0
+	+	4	0
+
+> /alx-system_engineering-devops/0x05-processes_and_signals/2-show_your_bash_pid
+	*	1675044985	0
+	"	3	0
+	^	3	0
+	.	4	0
+	+	3	0
+	+	4	0
+
+> /alx-system_engineering-devops/0x05-processes_and_signals/2
+	*	1675044956	0
+	"	1	0
+
+> /alx-system_engineering-devops/0x05-processes_and_signals/4-to_infinity_and_beyond
+	*	1675044943	0
+	"	7	3
+	^	7	4
+	.	8	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	7	4
+	+	8	0
+
+> /alx-system_engineering-devops/0x05-processes_and_signals/8-beheaded_process
+	*	1675044883	0
+	"	3	0
+	^	3	0
+	.	4	0
+	+	3	0
+	+	4	0
+
+> /alx-system_engineering-devops/0x05-processes_and_signals/7-highlander
+	*	1675044874	0
+	"	8	0
+	^	8	0
+	.	9	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+
+> /alx-system_engineering-devops/0x05-processes_and_signals/5-dont_stop_me_now
+	*	1675044838	0
+	"	3	0
+	^	3	0
+	.	4	0
+	+	3	0
+	+	4	0
+
+> /alx-system_engineering-devops/0x05-processes_and_signals/1-list_your_processes
+	*	1675044673	0
+	"	3	0
+	^	3	0
+	.	4	0
+	+	3	0
+	+	4	0
+
+> /alx-system_engineering-devops/0x05-processes_and_signals/0-what-is-my-pid
+	*	1675044640	0
+	"	3	0
+	^	3	0
+	.	4	0
+	+	3	0
+	+	4	0
+
+> /alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
+	*	1674778430	0
+	"	3	0
+	^	3	0
+	.	4	0
+	+	1	19
+	+	1	53
+	+	1	105
+	+	1	502
+	+	1	105
+	+	1	0
+	+	1	127
+	+	1	0
+	+	1	491
+	+	2	0
+	+	2	44
+	+	3	569
+	+	4	0
+
+> /alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub.pub
+	*	1674777422	0
+	"	1	0
+
+> /alx-system_engineering-devops/0x04-loops_conditions_and_parsing/100-read_and_cut
+	*	1674775743	0
+	"	4	0
+	^	4	0
+	.	5	0
+	+	3	0
+	+	4	0
+	+	5	0
+
+> /alx-system_engineering-devops/0x04-loops_conditions_and_parsing/102-lets_parse_apache_logs
+	*	1674775720	0
+	"	4	0
+	^	4	0
+	.	4	0
+	+	3	0
+	+	4	0
+
+> /alx-system_engineering-devops/0x04-loops_conditions_and_parsing/103-dig_the-data
+	*	1674775432	0
+	"	6	0
+	^	6	0
+	.	7	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+
+> /alx-system_engineering-devops/0x04-loops_conditions_and_parsing/101-tell_the_story_of_passwd
+	*	1674775396	0
+	"	7	0
+	^	7	0
+	.	3	0
+	+	3	0
+
+> /alx-system_engineering-devops/0x04-loops_conditions_and_parsing/10-fizzbuzz
+	*	1674775374	0
+	"	9	0
+	^	9	0
+	.	10	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	23	0
+	+	22	0
+	+	21	0
+	+	20	0
+	+	19	0
+	+	18	0
+	+	17	0
+	+	16	0
+	+	15	0
+	+	14	0
+	+	13	0
+	+	12	0
+	+	11	0
+	+	10	0
+
+> /alx-system_engineering-devops/0x04-loops_conditions_and_parsing/9-to_file_or_not_to_file
+	*	1674775362	0
+	"	13	0
+	^	13	0
+
+> /alx-system_engineering-devops/0x04-loops_conditions_and_parsing/8-for_ls
+	*	1674775193	0
+	"	8	0
+	^	8	0
+	.	9	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	9	0
+
+> /alx-system_engineering-devops/0x04-loops_conditions_and_parsing/7-clock
+	*	1674775174	0
+	"	9	0
+	^	9	0
+	.	8	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	8	0
+
+> /alx-system_engineering-devops/0x04-loops_conditions_and_parsing/6-superstitious_numbers
+	*	1674775155	0
+	"	14	0
+	^	14	0
+	.	9	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	9	0
+
+> /alx-system_engineering-devops/0x04-loops_conditions_and_parsing/5-4_bad_luck_8_is_your_chance
+	*	1674775133	0
+	"	30	0
+	^	30	0
+	.	6	0
+	+	1	0
+	+	4	0
+	+	6	0
+
+> /alx-system_engineering-devops/0x04-loops_conditions_and_parsing/4-if_9_say_hi
+	*	1674775120	0
+	"	8	0
+	^	8	0
+	.	7	0
+	+	3	0
+	+	5	0
+	+	7	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	3	0
+	+	5	0
+	+	7	0
+
+> /alx-system_engineering-devops/0x04-loops_conditions_and_parsing/3-until_best_school
+	*	1674774861	0
+	"	8	0
+	^	8	0
+	.	9	0
+	+	3	0
+	+	4	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+
+> /alx-system_engineering-devops/0x04-loops_conditions_and_parsing/2-while_best_school
+	*	1674774834	0
+	"	9	0
+	^	9	0
+	.	10	0
+	+	9	4
+	+	3	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+
+> /alx-system_engineering-devops/0x04-loops_conditions_and_parsing/10
+	*	1674774524	0
+	"	1	0
+
+> /alx-system_engineering-devops/0x04-loops_conditions_and_parsing/1-for_best_school
+	*	1674770958	0
+	"	7	0
+	^	7	0
+	.	8	0
+	+	3	0
+	+	4	0
+	+	6	0
+	+	7	0
+	+	8	0
+
+> /sorting_algorithms/1-insertion_sort_list.c
+	*	1674337335	0
+	"	4	0
+	^	4	1
+	.	4	0
+	+	1	2
+	+	3	2
+	+	4	65
+	+	6	0
+	+	8	0
+	+	9	0
+	+	44	2
+	+	46	0
+	+	47	0
+	+	48	0
+	+	49	0
+	+	50	0
+	+	4	0
+
+> /sorting_algorithms/0-bubble_sort.c
+	*	1674336875	0
+	"	4	0
+	^	4	1
+	.	4	0
+	+	3	1
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	12	0
+	+	14	0
+	+	41	0
+	+	37	0
+	+	10	0
+	+	11	0
+	+	4	0
+
+> /alx-higher_level_programming/0x0C-python-almost_a_circle/readme
+	*	1674254619	0
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	5
+
+> /alx-system_engineering-devops/command_line_for_the_win/0-first_9_tasks.png
+	*	1673980135	0
+	"	1	0
+
+> /alx-system_engineering-devops/.git/MERGE_MSG
+	*	1673979416	0
+	"	2	0
+	^	2	0
+	.	1	7
+	+	1	7
+
+> /alx-system_engineering-devops/command_line_for_the_win/0-first_9_tasks.jpg
+	*	1673978142	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> /alx-higher_level_programming/.git/COMMIT_EDITMSG
+	*	1673664667	0
+	"	1	0
+
+> /alx-higher_level_programming/0x0B-python-input_output/7-add_item.py
+	*	1673395211	0
+	"	29	0
+	^	29	0
+
+> /alx-low_level_programming/0x1A-hash_tables/0-hash_table_create.c
+	*	1673059804	0
+	"	12	0
+	^	12	0
+	.	19	0
+	+	3	0
+	+	51	0
+	+	46	0
+	+	32	0
+	+	27	0
+	+	23	0
+	+	19	0
+
+> /alx-low_level_programming/0x1A-hash_tables/6-hash_table_delete.c
+	*	1673058926	0
+	"	26	0
+	^	26	0
+	.	15	0
+	+	3	0
+	+	48	0
+	+	15	0
+
+> /alx-higher_level_programming/0x09-python-everything_is_object/0-answer.txt
+	*	1672788127	0
+	"	1	0
+
+> /alx-higher_level_programming/0x09-python-everything_is_object/19-copy_list.py
+	*	1672788077	0
+	"	4	0
+	^	4	0
+	.	4	0
+	+	4	0
+
+> /alx-higher_level_programming/0x09-python-everything_is_object/12-answer.txt
+	*	1672784590	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> /alx-higher_level_programming/0x08-python-more_classes/README.md
+	*	1672712390	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+	+	1	1
+	+	1	3
+	+	1	0
+
+> /alx-higher_level_programming/0x08-python-more_classes/3-rectangle.py
+	*	1672710222	0
+	"	123	29
+	^	123	30
+	.	37	0
+	+	6	0
+	+	11	0
+	+	28	0
+	+	37	0
+
+> /alx-higher_level_programming/0x08-python-more_classes/1-rectangle.py
+	*	1672709743	0
+	"	65	0
+	^	65	0
+	.	5	0
+	+	10	0
+	+	27	0
+	+	76	23
+	+	5	0
+
+> /alx-higher_level_programming/0x08-python-more_classes/0-rectangle.py
+	*	1672708995	0
+	"	4	0
+	^	4	0
+	.	5	0
+	+	5	0
+
+> /alx-higher_level_programming/0x05-python-exceptions/100-safe_print_integer_err.py
+	*	1671502258	0
+	"	18	0
+	^	18	0
+	.	4	0
+	+	6	0
+	+	4	0
+
+> /alx-higher_level_programming/0x05-python-exceptions/101-safe_function.py
+	*	1671501778	0
+	"	4	0
+	^	4	0
+	.	5	0
+	+	5	0
+
+> /alx-higher_level_programming/0x05-python-exceptions/0-safe_print_list.py
+	*	1671500215	0
+	"	14	0
+	^	14	0
+	.	3	0
+	+	3	0
 
 > /alx-low_level_programming/0x18-dynamic_libraries/randnum.so
 	*	1671147563	0
@@ -511,1117 +1180,3 @@
 	^	2	0
 	.	3	0
 	+	3	0
-
-> /alx-higher_level_programming/0x03-python-data_structures/readme
-	*	1670294450	0
-	"	1	0
-
-> /alx-higher_level_programming/0x03-python-data_structures/2-main.py
-	*	1670294156	0
-	"	1	0
-
-> /alx-higher_level_programming/0x03-python-data_structures/1-element_at.py
-	*	1670293492	0
-	"	2	0
-	^	2	0
-	.	3	0
-	+	3	0
-
-> /alx-higher_level_programming/0x02-python-import_modules/103-fast_alphabet.py
-	*	1669948264	0
-	"	3	0
-	^	3	0
-	.	4	0
-	+	3	0
-	+	4	0
-
-> /alx-higher_level_programming/0x02-python-import_modules/3-infinite_add.py
-	*	1669948220	0
-	"	8	0
-	^	8	0
-	.	9	0
-	+	3	0
-	+	9	0
-
-> /alx-higher_level_programming/0x02-python-import_modules/2-args.py
-	*	1669948202	0
-	"	8	0
-	^	8	0
-	.	9	0
-	+	2	0
-	+	3	0
-	+	9	0
-
-> /alx-higher_level_programming/0x02-python-import_modules/1-calculation.py
-	*	1669948139	0
-	"	6	0
-	^	6	0
-	.	7	0
-	+	7	0
-
-> /alx-higher_level_programming/0x02-python-import_modules/0-add.py
-	*	1669948105	0
-	"	6	0
-	^	6	0
-	.	7	0
-	+	7	0
-
-> /alx-higher_level_programming/0x02-python-import_modules/102-magic_calculation.py
-	*	1669947500	0
-	"	19	0
-	^	19	0
-	.	19	0
-	+	3	0
-	+	9	0
-	+	19	0
-
-> /alx-higher_level_programming/0x02-python-import_modules/100-my_calculator.py
-	*	1669947370	0
-	"	29	0
-	^	29	0
-	.	25	0
-	+	3	0
-	+	11	0
-	+	17	0
-	+	25	0
-
-> /alx-higher_level_programming/0x02-python-import_modules/5-variable_load.py
-	*	1669947139	0
-	"	7	3
-	^	7	4
-	.	7	3
-	+	3	0
-	+	7	3
-
-> /alx-higher_level_programming/0x02-python-import_modules/4-hidden_discovery.py
-	*	1669946545	0
-	"	8	0
-	^	8	0
-	.	9	0
-	+	3	0
-	+	9	0
-
-> /alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
-	*	1669777131	0
-	"	28	0
-	^	28	0
-	.	29	0
-	+	4	0
-	+	13	0
-	+	17	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	19	0
-	+	18	0
-	+	20	0
-	+	23	0
-	+	26	0
-	+	29	0
-
-> /alx-higher_level_programming/0x01-python-if_else_loops_functions/102-magic_calculation.py
-	*	1669776723	0
-	"	3	0
-	^	3	0
-	.	4	0
-	+	4	0
-
-> /alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py
-	*	1669776701	0
-	"	2	0
-	^	2	0
-	.	3	0
-	+	3	0
-
-> /alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
-	*	1669776575	0
-	"	2	0
-	^	2	0
-	.	3	0
-	+	3	0
-
-> /alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
-	*	1669775970	0
-	"	31	0
-	^	31	0
-	.	23	0
-	+	3	0
-	+	52	0
-	+	50	0
-	+	46	0
-	+	42	0
-	+	34	0
-	+	35	0
-	+	32	0
-	+	22	0
-	+	21	0
-	+	23	0
-
-> /alx-higher_level_programming/0x01-python-if_else_loops_functions/lists.h
-	*	1669775867	0
-	"	47	0
-
-> /alx-higher_level_programming/0x01-python-if_else_loops_functions/11-pow.py
-	*	1669775622	0
-	"	4	0
-	^	4	0
-	.	5	0
-	+	4	0
-	+	5	0
-
-> /alx-higher_level_programming/0x01-python-if_else_loops_functions/10-add.py
-	*	1669775294	0
-	"	3	0
-	^	3	0
-	.	4	0
-	+	4	0
-
-> /alx-higher_level_programming/0x01-python-if_else_loops_functions/9-print_last_digit.py
-	*	1669774788	0
-	"	4	0
-	^	4	0
-	.	4	0
-	+	4	0
-
-> /alx-higher_level_programming/0x01-python-if_else_loops_functions/8-uppercase.py
-	*	1669774460	0
-	"	13	0
-	^	13	0
-
-> /alx-higher_level_programming/0x01-python-if_else_loops_functions/6-print_comb3.py
-	*	1669773957	0
-	"	11	0
-	^	11	0
-	.	12	0
-	+	3	0
-	+	9	0
-	+	12	0
-
-> /alx-higher_level_programming/0x01-python-if_else_loops_functions/5-print_comb2.py
-	*	1669773590	0
-	"	4	0
-	^	4	0
-	.	5	0
-	+	5	0
-
-> /alx-higher_level_programming/0x01-python-if_else_loops_functions/4-print_hexa.py
-	*	1669773312	0
-	"	4	0
-	^	4	0
-	.	5	0
-	+	5	0
-
-> /alx-higher_level_programming/0x01-python-if_else_loops_functions/3-print_alphabt.py
-	*	1669773097	0
-	"	5	0
-	^	5	0
-	.	6	0
-	+	5	0
-	+	6	0
-
-> /alx-higher_level_programming/0x01-python-if_else_loops_functions/2-print_alphabet.py
-	*	1669772937	0
-	"	4	0
-	^	4	0
-	.	4	0
-	+	3	0
-	+	4	0
-
-> /alx-higher_level_programming/0x01-python-if_else_loops_functions/1-last_digit.py
-	*	1669772370	0
-	"	22	0
-	^	22	0
-	.	23	0
-	+	1	18
-	+	1	93
-	+	1	125
-	+	1	192
-	+	1	128
-	+	1	232
-	+	1	187
-	+	2	0
-	+	14	0
-	+	8	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	12	3
-	+	13	4
-	+	14	0
-	+	14	4
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	9	0
-	+	12	0
-	+	14	0
-	+	15	0
-	+	17	0
-	+	20	0
-	+	23	0
-
-> /alx-higher_level_programming/0x01-python-if_else_loops_functions/0-positive_or_negative.py
-	*	1669771342	0
-	"	7	3
-	^	7	4
-	.	7	4
-	+	3	0
-	+	11	47
-	+	5	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	3
-	+	9	4
-	+	7	4
-
-> /alx-higher_level_programming/0x00-python-hello_world/0-run
-	*	1669689324	0
-	"	2	0
-	^	2	0
-	.	3	0
-	+	2	15
-	+	2	0
-	+	1	10
-	+	3	0
-
-> /alx-higher_level_programming/0x00-python-hello_world/10-check_cycle.c
-	*	1669689193	0
-	"	24	0
-	^	24	0
-	.	25	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	21	0
-	+	22	0
-	+	23	0
-	+	24	0
-	+	25	0
-
-> /alx-higher_level_programming/0x00-python-hello_world/10
-	*	1669689108	0
-	"	1	0
-
-> /alx-higher_level_programming/0x00-python-hello_world/lists.h
-	*	1669689019	0
-	"	14	0
-	^	14	0
-	.	15	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-
-> /alx-higher_level_programming/0x00-python-hello_world/101-compile
-	*	1669688300	0
-	"	2	0
-	^	2	0
-	.	3	0
-	+	3	0
-
-> /alx-higher_level_programming/0x00-python-hello_world/102-magic_calculation.py
-	*	1669688272	0
-	"	3	3
-	^	3	4
-	.	3	3
-	+	3	3
-
-> /alx-higher_level_programming/0x00-python-hello_world/100-write.py
-	*	1669687311	0
-	"	4	0
-	^	4	0
-	.	5	0
-	+	3	0
-	+	4	0
-	+	5	0
-
-> /alx-higher_level_programming/0x00-python-hello_world/9-easter_egg.py
-	*	1669686929	0
-	"	2	0
-	^	2	0
-	.	3	0
-	+	3	0
-
-> /alx-higher_level_programming/0x00-python-hello_world/9
-	*	1669686907	0
-	"	1	0
-
-> /alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py
-	*	1669686723	0
-	"	5	0
-	^	5	0
-	.	6	0
-	+	3	0
-	+	4	0
-	+	3	0
-	+	5	0
-	+	6	0
-
-> /alx-higher_level_programming/0x00-python-hello_world/7-edges.py
-	*	1669686285	0
-	"	8	0
-	^	8	0
-	.	9	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-
-> /alx-higher_level_programming/0x00-python-hello_world/6-concat.py
-	*	1669685721	0
-	"	5	0
-	^	5	0
-	.	6	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-
-> /alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
-	*	1669684949	0
-	"	3	30
-	^	3	31
-	.	3	31
-	+	3	0
-	+	4	0
-	+	3	31
-
-> /alx-higher_level_programming/0x00-python-hello_world/4-print_float.py
-	*	1669683751	0
-	"	3	28
-	^	3	29
-	.	3	28
-	+	3	0
-	+	3	28
-
-> /alx-higher_level_programming/0x00-python-hello_world/3-print_number.py
-	*	1669683214	0
-	"	3	0
-	^	3	0
-	.	4	0
-	+	3	0
-	+	4	0
-
-> /alx-higher_level_programming/0x00-python-hello_world/2-print.py
-	*	1669682572	0
-	"	2	0
-	^	2	0
-	.	3	0
-	+	3	0
-
-> /alx-higher_level_programming/0x00-python-hello_world/1-run_inline
-	*	1669682281	0
-	"	2	19
-	^	2	20
-	.	2	19
-	+	3	0
-	+	2	19
-
-> /alx-higher_level_programming/0x00-python-hello_world/main.py
-	*	1669682013	0
-	"	2	0
-	^	2	0
-	.	3	0
-	+	3	0
-
-> /alx-low_level_programming/0x15-file_io/100-elf_header.c
-	*	1668899903	0
-	"	306	0
-	^	306	0
-	.	307	0
-	+	207	0
-	+	208	0
-	+	209	0
-	+	210	0
-	+	211	0
-	+	212	0
-	+	213	0
-	+	214	0
-	+	215	0
-	+	216	0
-	+	218	0
-	+	219	0
-	+	220	0
-	+	221	0
-	+	222	0
-	+	223	0
-	+	224	0
-	+	225	0
-	+	226	0
-	+	227	0
-	+	228	0
-	+	229	0
-	+	230	0
-	+	231	0
-	+	232	0
-	+	233	0
-	+	234	0
-	+	235	0
-	+	236	0
-	+	237	0
-	+	238	0
-	+	239	0
-	+	241	0
-	+	242	0
-	+	243	0
-	+	244	0
-	+	245	0
-	+	246	0
-	+	247	0
-	+	248	0
-	+	249	0
-	+	250	0
-	+	251	0
-	+	252	0
-	+	253	0
-	+	254	0
-	+	255	0
-	+	256	0
-	+	257	0
-	+	258	0
-	+	259	0
-	+	260	0
-	+	261	0
-	+	262	0
-	+	263	0
-	+	264	0
-	+	265	0
-	+	266	0
-	+	267	0
-	+	268	0
-	+	269	0
-	+	270	0
-	+	271	0
-	+	272	0
-	+	273	0
-	+	274	0
-	+	275	0
-	+	276	0
-	+	277	0
-	+	278	0
-	+	279	0
-	+	280	0
-	+	281	0
-	+	282	0
-	+	283	0
-	+	284	0
-	+	285	0
-	+	286	0
-	+	287	0
-	+	288	0
-	+	289	0
-	+	290	0
-	+	291	0
-	+	292	0
-	+	293	0
-	+	294	0
-	+	295	0
-	+	296	0
-	+	297	0
-	+	298	0
-	+	299	0
-	+	300	0
-	+	301	0
-	+	302	0
-	+	303	0
-	+	304	0
-	+	305	0
-	+	306	0
-	+	307	0
-
-> /alx-low_level_programming/0x15-file_io/3-cp.c
-	*	1668899414	0
-	"	90	0
-	^	90	0
-	.	89	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	21	0
-	+	22	0
-	+	23	0
-	+	24	0
-	+	25	0
-	+	26	0
-	+	27	0
-	+	28	0
-	+	29	0
-	+	30	0
-	+	31	0
-	+	32	0
-	+	33	0
-	+	34	0
-	+	35	0
-	+	36	0
-	+	37	0
-	+	38	0
-	+	39	0
-	+	40	0
-	+	41	0
-	+	42	0
-	+	43	0
-	+	44	0
-	+	45	0
-	+	46	0
-	+	47	0
-	+	48	0
-	+	49	0
-	+	50	0
-	+	51	0
-	+	52	0
-	+	53	0
-	+	54	0
-	+	55	0
-	+	56	0
-	+	57	0
-	+	58	0
-	+	59	0
-	+	60	0
-	+	61	0
-	+	62	0
-	+	63	0
-	+	64	0
-	+	65	0
-	+	66	0
-	+	67	0
-	+	68	0
-	+	69	0
-	+	70	0
-	+	71	0
-	+	72	0
-	+	73	0
-	+	74	0
-	+	75	0
-	+	76	0
-	+	77	0
-	+	78	0
-	+	79	0
-	+	80	0
-	+	81	0
-	+	82	0
-	+	83	0
-	+	84	0
-	+	85	0
-	+	86	0
-	+	87	0
-	+	88	0
-	+	89	0
-	+	91	0
-	+	92	0
-	+	93	0
-	+	94	0
-	+	95	0
-	+	96	0
-	+	97	0
-	+	98	0
-	+	99	0
-	+	100	0
-	+	101	0
-	+	102	0
-	+	103	0
-	+	104	0
-	+	105	0
-	+	106	0
-	+	107	0
-	+	108	0
-	+	109	0
-	+	110	0
-	+	111	0
-	+	112	0
-	+	91	0
-	+	88	0
-	+	89	0
-	+	92	0
-	+	89	0
-
-> /alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-	*	1668898956	0
-	"	38	0
-	^	38	0
-	.	39	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	21	0
-	+	22	0
-	+	23	0
-	+	24	0
-	+	25	0
-	+	26	0
-	+	27	0
-	+	28	0
-	+	29	0
-	+	30	0
-	+	31	0
-	+	32	0
-	+	33	0
-	+	34	0
-	+	35	0
-	+	36	0
-	+	37	0
-	+	38	0
-	+	39	0
-
-> /alx-low_level_programming/0x15-file_io/1-create_file.c
-	*	1668898713	0
-	"	31	0
-	^	31	0
-	.	32	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	16	0
-	+	17	0
-	+	19	0
-	+	20	0
-	+	21	0
-	+	22	0
-	+	23	0
-	+	25	0
-	+	26	0
-	+	28	0
-	+	29	0
-	+	31	0
-	+	32	0
-
-> /alx-low_level_programming/0x15-file_io/0-read_textfile.c
-	*	1668898191	0
-	"	38	0
-	^	38	0
-	.	39	0
-	+	3	0
-	+	4	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	20	0
-	+	21	0
-	+	23	0
-	+	24	0
-	+	25	0
-	+	26	0
-	+	27	0
-	+	28	0
-	+	30	0
-	+	31	0
-	+	32	0
-	+	33	0
-	+	34	0
-	+	36	0
-	+	37	0
-	+	39	0
-
-> /simple_shell/man_1_simple_shell
-	*	1668449374	0
-	"	87	11
-	^	87	12
-	.	87	11
-	+	87	11
-
-> /simple_shell/AUTHORS
-	*	1668449226	0
-	"	9	14
-	^	9	13
-	.	9	12
-	+	9	12
-
-> /simple_shell/5.wait.c
-	*	1668448296	0
-	"	32	0
-	^	32	0
-	.	33	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	15	0
-	+	13	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	21	0
-	+	22	0
-	+	23	0
-	+	24	0
-	+	25	0
-	+	26	0
-	+	27	0
-	+	28	0
-	+	29	0
-	+	30	0
-	+	31	0
-	+	32	0
-	+	33	0
-
-> /simple_shell/4.1.fork.c
-	*	1668448016	0
-	"	30	0
-	^	30	0
-	.	31	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	21	0
-	+	22	0
-	+	23	0
-	+	24	0
-	+	25	0
-	+	26	0
-	+	27	0
-	+	28	0
-	+	29	0
-	+	30	0
-	+	31	0
-
-> /simple_shell/3.execve.c
-	*	1668447760	0
-	"	19	0
-	^	19	0
-	.	20	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-
-> /simple_shell/1.1._proc_sys_kernel_pid_max
-	*	1668446456	0
-	"	2	0
-	^	2	0
-	.	3	0
-	+	3	0
-
-> /simple_shell/1.0.getppid.c
-	*	1668446292	0
-	"	16	0
-	^	16	0
-	.	17	0
-	+	3	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	4	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	0
-
-> /alx-low_level_programming/0x14-bit_manipulation/101-password
-	*	1666925394	0
-	"	1	2
-	^	1	3
-	.	1	0
-	+	1	0
-
-> /alx-low_level_programming/0x14-bit_manipulation/5-flip_bits.c
-	*	1666924943	0
-	"	20	0
-	^	21	0
-	.	22	0
-	+	2	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	22	0
-
-> /alx-low_level_programming/0x14-bit_manipulation/4-clear_bit.c
-	*	1666924418	0
-	"	24	0
-	^	24	0
-	.	25	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	17	0
-	+	18	0
-	+	20	0
-	+	22	0
-	+	23	0
-	+	25	0
-
-> /alx-low_level_programming/0x14-bit_manipulation/3-set_bit.c
-	*	1666924234	0
-	"	22	0
-	^	22	0
-	.	23	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	20	0
-	+	21	0
-	+	23	0
-
-> /alx-low_level_programming/0x14-bit_manipulation/2-get_bit.c
-	*	1666924058	0
-	"	27	0
-	^	27	0
-	.	28	0
-	+	3	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	17	0
-	+	18	0
-	+	20	0
-	+	21	0
-	+	22	0
-	+	23	0
-	+	24	0
-	+	25	0
-	+	26	0
-	+	28	0
-
-> /alx-low_level_programming/0x14-bit_manipulation/1-print_binary.c
-	*	1666923842	0
-	"	21	0
-	^	21	0
-	.	22	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	21	0
-	+	22	0
-
-> /alx-low_level_programming/0x14-bit_manipulation/0-binary_to_uint.c
-	*	1666923672	0
-	"	34	0
-	^	34	0
-	.	35	0
-	+	2	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	8
-	+	8	0
-	+	6	0
-	+	7	8
-	+	8	8
-	+	8	7
-	+	9	37
-	+	9	3
-	+	10	0
-	+	11	2
-	+	11	36
-	+	12	3
-	+	12	14
-	+	13	3
-	+	13	0
-	+	14	3
-	+	15	0
-	+	16	2
-	+	17	0
-	+	18	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	21	0
-	+	23	0
-	+	24	0
-	+	25	0
-	+	26	0
-	+	27	0
-	+	28	0
-	+	30	0
-	+	31	0
-	+	32	0
-	+	33	0
-	+	34	0
-	+	35	0
-
-> /alx-low_level_programming/0x12-singly_linked_lists/101-hello_holberton.asm
-	*	1666580279	0
-	"	13	0
-	^	13	0
-	.	14	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
