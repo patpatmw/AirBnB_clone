@@ -1,0 +1,8 @@
+1.	Browser checks for the cache for a DNS record while trying to find a corresponding IP address of www.google .com (209.85.227.104). The Domain Name Server, popularly known as the DNS is more like an address book having a list of all IP addresses with their corresponding website names.
+2.	TCP/IP connection is used with the server hosting the URL
+3.	The request made in the browser for a URL: www.google.com  passes through a firewall on its way. The firewall verifies incoming data packets to make sure they are allowed based on predefined security rules established.
+4.	The server then sends back the www.google.com webpage back to the browser using Hypertext Transfer Protocol Secure (HTTPS) which is a secure version of the HTTPS protocol. It is used to encrypt the data transmitted the browser and Google’s server.
+5.	Google being a company that receive a lot of requests from web visitors across the globe employs the use of load balancers. Load Balancers are used primarily to distribute traffic evenly across servers. This is important because it avoids overloading a single server. In accessing www.google.com, the load balance would receive the request from the browser and then forward it to one of the Google servers depending on the balancing algorithm put in place.
+6.	The web server would then receive the request from the load balancer and generate a response. The web server would then send back the response to the load balancer which would forward it to the browser
+7.	The web server sends the request to the application server which processes the request and generates the search results.
+8.	Finally, the application server makes a request to the database in order to retrieve the necessary data
